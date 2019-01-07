@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+.row{
+    width: 100%;
+}
+ 
+@media(min-width: 992px ){
+    .col-l-4   {
+      float: left;
+      border: 1px solid green;
+    }
+    
+    .col-l-4 {
+      width: 33.33%;
+    }
+  
+
+
+}
+@media(min-width: 768px) and (max-width: 991px){
+     .col-m,.col-m2 {
+        float: left;
+        border: 1px solid green;
+      }
+       
+      .col-m {
+        width: 50%;
+      }
+      .col-m2{
+        width: 100%;
+      }
+}
+@media(max-width: 767px){
+    .col-m,.col-m2 {
+        float: left;
+        border: 1px solid green;
+      }
+}
+       
+   
