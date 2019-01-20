@@ -29,6 +29,7 @@ h2{
 }
 @media(min-width:992px){
     .col-l-4   {
+        height: 300px;
       float: left;
       border: 1px solid green;
       margin-right: 1px;
@@ -50,6 +51,7 @@ h2{
         float: left;
         border: 1px solid green;
         margin: 1%;
+        height: 300px;
         
       }
        

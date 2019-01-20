@@ -1,0 +1,46 @@
+hr {
+
+    border-top: 1px dotted rgb(226, 225, 230);
+    border-width: 1.5px;
+    width: 30%;
+    height: 1px;
+    margin: 0 auto;
+}
+
+.container-fluid {
+    padding-left: 15px;
+}
+
+#brand_name {
+    font-size: 22px;
+
+}
+
+.cont {
+    padding: 15px;
+}
+
+.nav-item {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 3.3vw;
+
+
+}
+
+#main_text_header {}
+
+.asos {
+    text-align: justify;
+    background-color: rgb(240, 220, 220);
+    padding: 15px;
+}
+
+.asos p {
+    margin: 10px 0;
+    opacity: 0.8;
+}
+
+#Menu {
+    margin: 20px 0;
+} 
